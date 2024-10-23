@@ -325,7 +325,7 @@ There are currently 125 built-in filters, divided into the following categories:
 
 - **GPUImageSoftEleganceFilter**: Another lookup-based color remapping filter. If you want to use this effect you have to add lookup_soft_elegance_1.png and lookup_soft_elegance_2.png from the GPUImage Resources folder to your application bundle.
 
-- **GPUImageSkinToneFilter**: A skin-tone adjustment filter that affects a unique range of light skin-tone colors and adjusts the pink/green or pink/orange range accordingly. Default values are targetted at fair caucasian skin, but can be adjusted as required.
+- **GPUImageSkinToneFilter**: A skin-tone adjustment filter that affects a unique range of light skin-tone colors and adjusts the pink/green or pink/orange range accordingly. Default values are targeted at fair caucasian skin, but can be adjusted as required.
   - *skinToneAdjust*: Amount to adjust skin tone. Default: 0.0, suggested min/max: -0.3 and 0.3 respectively.
   - *skinHue*: Skin hue to be detected. Default: 0.05 (fair caucasian to reddish skin).
   - *skinHueThreshold*: Amount of variance in skin hue. Default: 40.0.
